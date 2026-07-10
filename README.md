@@ -1,5 +1,5 @@
 # 📝 Python To-Do List Console Application
-
+ 
 A simple **Object-Oriented Programming (OOP)** based To-Do List application developed in **Python**. This console application allows users to register, log in, and manage their personal notes. User and note data are stored in text files, providing basic data persistence.
 
 ## 🚀 Features
